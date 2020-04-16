@@ -1,0 +1,31 @@
+.container{
+  margin-top: 15px;
+}
+
+#logoLoja{
+  width: 60px;
+  border-radius: 50%;
+}
+
+#imgQuemSomos{
+  width: 400px;
+}
+
+.margin{
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.imgProdutos{
+  width: 100%;
+}
+
+.imgParceiros{
+  width: 100%;
+}
+
+.bg-footer{
+  background-color: dimgrey;
+  color: white;
+}
